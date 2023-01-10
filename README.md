@@ -1,4 +1,10 @@
-Profissional da área da Tecnologia com forte atuação em suporte técnico. Com mais de 10 anos de atuação no mercado, atuando em empresas de grande e médio porte. MBA em Gestão Estratégica de Pessoas pela Universidade Estácio e Graduação em Tecnologia em Análise e Desenvolvimento de sistemas pela Uniderp. Sólidos conhecimentos na condução das rotinas de Suporte técnico, realizando atividades tais como: Instalação de equipamentos; fiscalizar e avaliar a execução das demandas encaminhadas para os técnicos; mapeamento de melhorias nos processos de atendimento; Realizar testes para implantação de software e entre outras atividades inerentes a função. 
-Extremamente motivada para desenvolver constantemente minhas habilidades e crescer profissionalmente. Estou confiante na minha capacidade de agregar de forma positiva aos valores da instituição.
+Desenvolvedora front end, formada em análise e desenvolvimento de sistemas pela Uniderp, com MBA em Gestão estratégica de pessoas pela Estácio.
+Profissional da área de tecnologia com forte atuação em suporte técnico, migrei para a área de desenvolvimento buscando aliar os conhecimentos e experiência em gestão de pessoas e projetos com uma base técnica sólida para resolver problemas complexos de forma holística.
+Acredito que o aprendizado contínuo é a melhor forma de se manter atualizado e relevante em um mundo de constante transformação. 
 
-Atualmente estou em transição de carreira estudando para uma vaga de front end junior.
+Minhas principais ferramentas de trabalho são:
+
+- HTML;
+- CSS;
+- Javascript;
+- Git/Github;
