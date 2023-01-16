@@ -6,5 +6,4 @@ Minhas principais ferramentas de trabalho são:
 
 - HTML;
 - CSS;
-- Javascript;
 - Git/Github;
