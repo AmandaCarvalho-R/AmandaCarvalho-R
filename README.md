@@ -8,7 +8,7 @@ Acredito que o aprendizado contínuo é a melhor forma de se manter atualizado e
 </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML-critical"/> <img src="https://img.shields.io/badge/-CSS-informational"/> <img src="https://img.shields.io/badge/-Git-green"/> <img src="https://img.shields.io/badge/-Github-yellow"/>
+<img src="https://img.shields.io/badge/-HTML-critical"/> <img src="https://img.shields.io/badge/-CSS-informational"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/> <img src="https://img.shields.io/badge/-Git-green"/> <img src="https://img.shields.io/badge/-Github-blue"/>
 </p>
 
 
